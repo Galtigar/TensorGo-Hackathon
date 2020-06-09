@@ -1,0 +1,2 @@
+0 Headset Detected
+1 No Headset
